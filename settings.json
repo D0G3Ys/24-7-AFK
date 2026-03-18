@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "afghansmp.falixsrv.me",
+    "port": 25423,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "67!!!",
+        "Raggen",
+        "Raggen maar cooler"
       ]
     },
     "chat-log": true,
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1483780563545493524/JoIWsI713SOb3lD6egIKnu0BWVMgqOeX6GUgV5BDdmZL3YyfFr9XtbegCOP1E6ADge8e",
     "events": {
       "connect": true,
       "disconnect": true,
